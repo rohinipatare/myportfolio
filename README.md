@@ -27,7 +27,7 @@ I am a Blockchain Developer with web development & UI/UX design skills <img src=
 
 ### Development Skills
 <p>
-  <img src="solidity.png" width="67.5px" />
+  <img src="/rohinipatare/rohinipatare/solidity.png" width="67.5px" />
   <img src="ethereum.png" width="67.5px" />
   <img src="Hyperledger Fabric.png" width="67.5px" />
   <img src="cryptography.png" width="67.5px" />
