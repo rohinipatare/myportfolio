@@ -28,29 +28,29 @@ I am a Blockchain Developer with web development & UI/UX design skills <img src=
 ### Development Skills
 <p>
   <img src="/assets/skills/solidity.png" width="67.5px" />
-  <img src="ethereum.png" width="67.5px" />
-  <img src="Hyperledger Fabric.png" width="67.5px" />
-  <img src="cryptography.png" width="67.5px" />
-  <img src="truffle.png" width="67.5px" />
-  <img src="Hardhat.png" width="67.5px" />
-  <img src="web3js.png" width="67.5px" />
-  <img src="IPFS.png" width="67.5px" />
-  <img src="defi.png" width="67.5px" />
+  <img src="/assets/skills/ethereum.png" width="67.5px" />
+  <img src="/assets/skills/Hyperledger Fabric.png" width="67.5px" />
+  <img src="/assets/skills/cryptography.png" width="67.5px" />
+  <img src="/assets/skills/truffle.png" width="67.5px" />
+  <img src="/assets/skills/Hardhat.png" width="67.5px" />
+  <img src="/assets/skills/web3js.png" width="67.5px" />
+  <img src="/assets/skills/IPFS.png" width="67.5px" />
+  <img src="/assets/skills/defi.png" width="67.5px" />
 
 </p>
 
 
 <p>  
-  <img src="git.png" width="67.5px" />
-  <img src="linux.png" width="67.5px" />
-  <img src="figma.png" width="67.5px" />
-  <img src="vscode.png" width="67.5px" />
+  <img src="/assets/skills/git.png" width="67.5px" />
+  <img src="/assets/skills/linux.png" width="67.5px" />
+  <img src="/assets/skills/figma.png" width="67.5px" />
+  <img src="/assets/skills/vscode.png" width="67.5px" />
 </p>
 
 ### Database
 <p>
-  <img src="mysql.png" width="67.5px" />
-  <img src="mongodb.png" width="67.5px" />
+  <img src="/assets/skills/mysql.png" width="67.5px" />
+  <img src="/assets/skills/mongodb.png" width="67.5px" />
 </p>
 
 
